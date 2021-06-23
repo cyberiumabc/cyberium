@@ -1,0 +1,42 @@
+=============== Aug 9, 2020 (UTC) ===============
+01:39:03.402286 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:39:03.405790 db@open opening
+01:39:03.407145 version@stat F·[] S·0B[] Sc·[]
+01:39:03.410256 db@janitor F·2 G·0
+01:39:03.410280 db@open done T·4.467073ms
+01:39:08.049491 db@close closing
+01:39:08.049549 db@close done T·59.107µs
+=============== Aug 9, 2020 (UTC) ===============
+01:39:40.778892 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:39:40.779015 version@stat F·[] S·0B[] Sc·[]
+01:39:40.779038 db@open opening
+01:39:40.779086 journal@recovery F·1
+01:39:40.780313 journal@recovery recovering @1
+01:39:40.782395 memdb@flush created L0@2 N·13 S·890B "-\xe6\xcb..\xda\x17@,v2":"sec..\x139?,v1"
+01:39:40.784762 version@stat F·[1] S·890B[890B] Sc·[0.25]
+01:39:40.791041 db@janitor F·3 G·0
+01:39:40.791059 db@open done T·12.011512ms
+01:40:06.315228 db@close closing
+01:40:06.315296 db@close done T·68.24µs
+=============== Aug 9, 2020 (UTC) ===============
+01:40:56.009985 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:40:56.010134 version@stat F·[1] S·890B[890B] Sc·[0.25]
+01:40:56.010158 db@open opening
+01:40:56.010213 journal@recovery F·1
+01:40:56.011511 journal@recovery recovering @3
+01:40:56.013994 version@stat F·[1] S·890B[890B] Sc·[0.25]
+01:40:56.020482 db@janitor F·3 G·0
+01:40:56.020501 db@open done T·10.332842ms
+01:42:23.018615 db@close closing
+01:42:23.018686 db@close done T·71.189µs
+=============== Aug 9, 2020 (UTC) ===============
+01:42:31.904835 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:42:31.904971 version@stat F·[1] S·890B[890B] Sc·[0.25]
+01:42:31.904995 db@open opening
+01:42:31.905044 journal@recovery F·1
+01:42:31.906284 journal@recovery recovering @5
+01:42:31.908780 version@stat F·[1] S·890B[890B] Sc·[0.25]
+01:42:31.915290 db@janitor F·3 G·0
+01:42:31.915308 db@open done T·10.303477ms
+01:43:33.966337 db@close closing
+01:43:33.966431 db@close done T·94.436µs
